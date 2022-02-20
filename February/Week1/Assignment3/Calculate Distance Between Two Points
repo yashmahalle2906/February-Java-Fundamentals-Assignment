@@ -1,0 +1,8 @@
+Java Program To Calculate Distance Between Two Points
+
+Step 1: Start
+Step 2: Initialize X1,X2
+Step 3: Initialize Y1,Y2
+Step 4: Calculate distance = math.sqrt[(X2-X1)*(X2-X1)+(Y2-Y1)*(Y2-Y1)]
+Step 5: Print distance
+Step 6: Stop
