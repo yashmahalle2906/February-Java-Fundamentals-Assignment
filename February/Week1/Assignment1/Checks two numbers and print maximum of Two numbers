@@ -1,0 +1,9 @@
+Draw flowchart that checks two numbers and print maximum of Two numbers
+
+Step 1: Start
+Step 2: Enter a, b        
+Step 3: If a>b then        
+           Print a is the maximum number
+        else
+           Print b is the maximum number
+Step 4: Stop.
