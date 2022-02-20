@@ -1,0 +1,11 @@
+Write algorithm that Print sum of N Numbers
+Step 1: Start
+Step 2: Initialize n
+Step 3: Initialize sum=0
+Step 4: Initialize i=1
+Step 5: If (i<=n)
+Step 6:    sum=sum+1
+Step 7:    i=i+1
+Step 8: Else
+Step 9:    Print sum
+Step 10: Stop
