@@ -1,0 +1,9 @@
+Draw flowchart that checks two numbers and print minimum of Two numbers
+
+Step 1: Start
+Step 2: Enter a, b        
+Step 3: If a<b then        
+           Print a is the minimum number
+        else
+           Print b is the minimum number
+Step 4: Stop.
