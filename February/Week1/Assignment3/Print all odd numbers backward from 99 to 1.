@@ -1,0 +1,11 @@
+Write algorithm to print all odd numbers backward from 99 to 1.
+Step 1: Start
+Step 2: Initialize i = ul
+Step 3: if (i<=ul && i>=1) then
+Step 4:    if (i%2!=0)
+Step 5:       Print i
+Step 6:      i = i-1 go to step 3
+Step 7:     else
+Step 8:      i=i-1 go to step 3
+Step 9: else
+Step 10: Stop
