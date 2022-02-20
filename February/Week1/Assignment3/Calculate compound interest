@@ -1,0 +1,7 @@
+Write Algorithm to find compound interest provided principle, time, and ROI are taken by user
+
+Step 1: Start.
+Step 2: Declare principle = p, time = n, ROI = r
+Step 3: Calculate C.I = p × (1 + r/100)^n – p.
+Step 4: Print “The compound Interest = C.l”
+Step 5: Stop
