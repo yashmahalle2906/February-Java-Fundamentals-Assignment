@@ -1,0 +1,7 @@
+Draw flowchart that reads a number in inches, converts it to meters.
+
+STEP 1: START
+STEP 2: Enter number in inches.
+STEP 3: meter = inches*0.0254
+STEP 4: Print meter.
+STEP 5: Stop 
