@@ -1,0 +1,10 @@
+Write algorithm that print table of any number, e.g 7
+
+Step 1: Start
+Step 2: Enter num
+Step 3: Initialize i=1
+Step 4: if (i<=10)
+Step 5:    Print = num*i
+Step 6:    i=i+1 go to step 4
+Step 7: else 
+Step 8: Stop
