@@ -1,0 +1,9 @@
+Draw flowchart to print 2,4,6,8, 10
+
+Step 1: Start
+Step 2: Enter num = 2
+Step 3: if (num<=10)
+           Print num    
+		   num=num+2 and go to step 3
+Step 4: else
+Step 5: Stop
