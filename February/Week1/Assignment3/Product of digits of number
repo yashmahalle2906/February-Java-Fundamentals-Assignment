@@ -1,0 +1,12 @@
+Calculate product of digits of number
+
+Step 1: Start
+Step 2: Enter number
+Step 3: Initialize product =1
+Step 4: rem=num%10
+Step 5: product=product*rem
+Step 6: num=num/10
+Step 7: if (num>0) go to step 4
+Step 8: else
+Step 9: Print product
+Step 10: Stop
