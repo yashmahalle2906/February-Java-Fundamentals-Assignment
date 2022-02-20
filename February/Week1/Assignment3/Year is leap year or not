@@ -1,0 +1,9 @@
+Check if a year is leap year or not
+
+Step 1: Start
+Step 2: Enter year 'Y'
+Step 3: if (Y%4==0)
+Step 4:    Print Y is leap year
+Step 5: else
+Step 6:    Print Y is not leap year
+Step 7: Stop
