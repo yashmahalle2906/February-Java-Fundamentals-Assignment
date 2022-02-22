@@ -1,0 +1,10 @@
+Find the binary equivalent of 27, 144, 52, 9, 7,0  - not a program. Compute manually
+Solution:-
+128 64 32 16 8 4 2 1
+----------------------------------------------------
+BINARY OF 27 IS 11011
+BINARY OF 144 IS 10010000
+BINARY OF 52 IS 110100
+BINARY OF 9 IS 1001
+BINARY OF 7 IS 0111
+BINART OF 0 IS 0000
